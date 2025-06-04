@@ -17,7 +17,6 @@ This project is a **virtual paint application** that lets you draw on the screen
 - `numpy`
 
 Install using pip:
-```bash
 pip install opencv-python mediapipe numpy
 
 🎮 Controls
